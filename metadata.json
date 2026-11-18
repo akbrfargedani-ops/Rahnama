@@ -1,0 +1,6 @@
+{
+  "name": "راهنما | RAHNAMA",
+  "description": "اپلیکیشن هوشمند نقشه، مکانیابی، مسیریابی و راهنمای صوتی فارسی با نقشه تعاملی OpenStreetMap و نقشه آفلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">راهنما</string>
+    <string name="app_name_en">RAHNAMA</string>
+    <string name="app_slogan">مسیر درست، همیشه همراه تو</string>
+    <string name="data_unavailable">اطلاعات در دسترس نیست</string>
+    <string name="nav_map">نقشه</string>
+    <string name="nav_search">جستوجو</string>
+    <string name="nav_nearby">اطراف من</string>
+    <string name="nav_saved">ذخیره‌شده‌ها</string>
+    <string name="nav_profile">حساب کاربری</string>
+    <string name="search_placeholder">کجا می‌روید؟ جستوجوی خیابان، محله یا مکان…</string>
+    <string name="cd_app_logo">لوگوی اپلیکیشن راهنما</string>
+    <string name="cd_my_location">بازگشت به موقعیت فعلی</string>
+    <string name="cd_compass">قطب‌نما و تنظیم جهت شمال</string>
+    <string name="cd_map_layers">لایههای نقشه</string>
+    <string name="cd_report_issue">گزارش وضعیت خیابان</string>
+    <string name="cd_traffic_layer">وضعیت ترافیک</string>
+    <string name="cd_voice_toggle">تغییر وضعیت راهنمای صوتی</string>
+    <string name="cd_route_button">مسیریابی</string>
+    <string name="cd_swap_origin_dest">جابه‌جایی مبدأ و مقصد</string>
+</resources>
